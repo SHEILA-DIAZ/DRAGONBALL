@@ -45,102 +45,99 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 ## Evidencias del Desarrollo
 
-### Imagen 01
+## Imagen 01
 
-**Nombre de la imagen:**
-01-proyecto-vite-funcionando.png
+**Nombre de la imagen:** 01-proyecto-vite-funcionando.png
 
-**Descripción:**
-Creación inicial del proyecto utilizando Vite con React y TypeScript. Se verifica el correcto funcionamiento de la aplicación en el navegador.
+**Descripción:** Creación inicial del proyecto utilizando Vite con React y TypeScript.
 
-**Ruta:**
-capturas/01-proyecto-vite-funcionando.png
+**Ruta:** capturas/01-proyecto-vite-funcionando.png
 
----
-
-### Imagen 02
-
-**Nombre de la imagen:**
-02-tailwind-funcionando.png
-
-**Descripción:**
-Instalación y configuración de Tailwind CSS dentro del proyecto para la creación de interfaces modernas y responsivas.
-
-**Ruta:**
-capturas/02-tailwind-funcionando.png
+![Imagen 01](capturas/01-proyecto-vite-funcionando.png)
 
 ---
 
-### Imagen 03
+## Imagen 02
 
-**Nombre de la imagen:**
-03-shadcn-instalado.png
+**Nombre de la imagen:** 02-tailwind-funcionando.png
 
-**Descripción:**
-Instalación y configuración de la librería shadcn/ui para la implementación de componentes reutilizables y modernos.
+**Descripción:** Instalación y configuración de Tailwind CSS.
 
-**Ruta:**
-capturas/03-shadcn-instalado.png
+**Ruta:** capturas/02-tailwind-funcionando.png
 
----
-
-### Imagen 04
-
-**Nombre de la imagen:**
-04-boton-shadcn-funcionando.png
-
-**Descripción:**
-Validación del correcto funcionamiento del componente Button generado mediante shadcn/ui.
-
-**Ruta:**
-capturas/04-boton-shadcn-funcionando.png
+![Imagen 02](capturas/02-tailwind-funcionando.png)
 
 ---
 
-### Imagen 05
+## Imagen 03
 
-**Nombre de la imagen:**
-05-listado-dragonball.png
+**Nombre de la imagen:** 03-shadcn-instalado.png
 
-**Descripción:**
-Primera versión del listado de personajes consumidos desde la Dragon Ball API utilizando Axios y TanStack Query.
+**Descripción:** Instalación y configuración de shadcn/ui.
 
-**Ruta:**
-capturas/05-listado-dragonball.png
+**Ruta:** capturas/03-shadcn-instalado.png
 
----
-
-### Imagen 06
-
-**Nombre de la imagen:**
-06-detalle-personaje.png
-
-**Descripción:**
-Primera implementación de la página de detalle de personajes utilizando React Router para la navegación dinámica.
-
-**Ruta:**
-capturas/06-detalle-personaje.png
+![Imagen 03](capturas/03-shadcn-instalado.png)
 
 ---
 
-### Imagen 07
+## Imagen 04
 
-**Nombre de la imagen:**
-07-listado-dragonball-mejorado.png
+**Nombre de la imagen:** 04-boton-shadcn-funcionando.png
 
-**Descripción:**
-Versión mejorada de la página principal incorporando buscador, diseño visual moderno, efectos visuales y una mejor experiencia de usuario.
+**Descripción:** Validación del componente Button.
 
-**Ruta:**
-capturas/07-listado-dragonball-mejorado.png
+**Ruta:** capturas/04-boton-shadcn-funcionando.png
+
+![Imagen 04](capturas/04-boton-shadcn-funcionando.png)
 
 ---
 
-### Imagen 08
+## Imagen 05
 
-**Nombre de la imagen:**
-08-detalle-personaje-mejorado.png
+**Nombre de la imagen:** 05-listado-dragonball.png
 
+**Descripción:** Primera versión del listado de personajes.
+
+**Ruta:** capturas/05-listado-dragonball.png
+
+![Imagen 05](capturas/05-listado-dragonball.png)
+
+---
+
+## Imagen 06
+
+**Nombre de la imagen:** 06-detalle-personaje.png
+
+**Descripción:** Primera implementación de la página de detalle.
+
+**Ruta:** capturas/06-detalle-personaje.png
+
+![Imagen 06](capturas/06-detalle-personaje.png)
+
+---
+
+## Imagen 07
+
+**Nombre de la imagen:** 07-listado-dragonball-mejorado.png
+
+**Descripción:** Versión mejorada de la página principal.
+
+**Ruta:** capturas/07-listado-dragonball-mejorado.png
+
+![Imagen 07](capturas/07-listado-dragonball-mejorado.png)
+
+---
+
+## Imagen 08
+
+**Nombre de la imagen:** 08-detalle-personaje-mejorado.png
+
+**Descripción:** Versión final de la página de detalle.
+
+**Ruta:** capturas/08-detalle-personaje-mejorado.png
+
+![Imagen 08](capturas/08-detalle-personaje-mejorado.png)
 **Descripción:**
 Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información, estadísticas y efectos gráficos mejorados.
 

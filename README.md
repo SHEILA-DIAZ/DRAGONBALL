@@ -49,7 +49,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 01-proyecto-vite-funcionando.png
 
-**Descripción:** Creación inicial del proyecto utilizando Vite con React y TypeScript.
+Creación inicial del proyecto utilizando Vite con React y TypeScript.
 
 ![Imagen 01](capturas/01-proyecto-vite-funcionando.png)
 
@@ -59,7 +59,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 02-tailwind-funcionando.png
 
-**Descripción:** Instalación y configuración de Tailwind CSS.
+Instalación y configuración de Tailwind CSS.
 
 ![Imagen 02](capturas/02-tailwind-funcionando.png)
 
@@ -69,7 +69,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 03-shadcn-instalado.png
 
-**Descripción:** Instalación y configuración de shadcn/ui.
+Instalación y configuración de shadcn/ui.
 
 ![Imagen 03](capturas/03-shadcn-instalado.png)
 
@@ -79,7 +79,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 04-boton-shadcn-funcionando.png
 
-**Descripción:** Validación del componente Button.
+Validación del componente Button.
 
 ![Imagen 04](capturas/04-boton-shadcn-funcionando.png)
 
@@ -89,7 +89,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 05-listado-dragonball.png
 
-**Descripción:** Primera versión del listado de personajes.
+Primera versión del listado de personajes.
 
 ![Imagen 05](capturas/05-listado-dragonball.png)
 
@@ -99,7 +99,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 06-detalle-personaje.png
 
-**Descripción:** Primera implementación de la página de detalle.
+Primera implementación de la página de detalle.
 
 ![Imagen 06](capturas/06-detalle-personaje.png)
 
@@ -109,7 +109,7 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 07-listado-dragonball-mejorado.png
 
-**Descripción:** Versión mejorada de la página principal.
+Versión mejorada de la página principal.
 
 ![Imagen 07](capturas/07-listado-dragonball-mejorado.png)
 
@@ -119,48 +119,9 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 **Nombre de la imagen:** 08-detalle-personaje-mejorado.png
 
-**Descripción:** Versión final de la página de detalle.
+Versión final de la página de detalle.
 
 ![Imagen 08](capturas/08-detalle-personaje-mejorado.png)
-**Descripción:**
+
 Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información, estadísticas y efectos gráficos mejorados.
 
----
-
-## Instalación y Ejecución
-
-### Clonar repositorio
-
-```bash
-git clone https://github.com/SHEILA-DIAZ/DRAGONBALL.git
-```
-
-### Ingresar al proyecto
-
-```bash
-cd DRAGONBALL
-```
-
-### Instalar dependencias
-
-```bash
-npm install
-```
-
-### Ejecutar proyecto
-
-```bash
-npm run dev
-```
-
-### Generar compilación de producción
-
-```bash
-npm run build
-```
-
----
-
-## Resultado Final
-
-La aplicación permite explorar personajes del universo Dragon Ball mediante una interfaz moderna, intuitiva y responsive, aplicando buenas prácticas de desarrollo frontend con React, TypeScript, Tailwind CSS, shadcn/ui, Axios, React Router y TanStack Query.

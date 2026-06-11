@@ -1,73 +1,188 @@
-# React + TypeScript + Vite
+# DRAGONBALL
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción del Proyecto
 
-Currently, two official plugins are available:
+DRAGONBALL es una aplicación web desarrollada con React y TypeScript que permite explorar personajes del universo Dragon Ball mediante el consumo de una API externa. La aplicación permite visualizar una lista de personajes, realizar búsquedas dinámicas y acceder a una página de detalle con información específica de cada personaje.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, implementando una interfaz atractiva y responsive mediante Tailwind CSS y componentes reutilizables proporcionados por shadcn/ui. Asimismo, se empleó Axios para el consumo de servicios web, TanStack Query para la gestión eficiente de datos remotos y React Router para la navegación entre páginas.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Herramientas y Tecnologías Utilizadas
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+* React
+* TypeScript
+* Vite
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+### Diseño UI/UX
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+* Tailwind CSS
+* shadcn/ui
+* Lucide React
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+### Consumo de API
+
+* Axios
+* Dragon Ball API
+
+### Gestión de Datos
+
+* TanStack Query
+
+### Navegación
+
+* React Router DOM
+
+
+## Integrantes
+
+* Sheila Diaz Rojas
+* Naomi Sanchez Chavarria
+
+---
+
+## Evidencias del Desarrollo
+
+### Imagen 01
+
+**Nombre de la imagen:**
+01-proyecto-vite-funcionando.png
+
+**Descripción:**
+Creación inicial del proyecto utilizando Vite con React y TypeScript. Se verifica el correcto funcionamiento de la aplicación en el navegador.
+
+**Ruta:**
+capturas/01-proyecto-vite-funcionando.png
+
+---
+
+### Imagen 02
+
+**Nombre de la imagen:**
+02-tailwind-funcionando.png
+
+**Descripción:**
+Instalación y configuración de Tailwind CSS dentro del proyecto para la creación de interfaces modernas y responsivas.
+
+**Ruta:**
+capturas/02-tailwind-funcionando.png
+
+---
+
+### Imagen 03
+
+**Nombre de la imagen:**
+03-shadcn-instalado.png
+
+**Descripción:**
+Instalación y configuración de la librería shadcn/ui para la implementación de componentes reutilizables y modernos.
+
+**Ruta:**
+capturas/03-shadcn-instalado.png
+
+---
+
+### Imagen 04
+
+**Nombre de la imagen:**
+04-boton-shadcn-funcionando.png
+
+**Descripción:**
+Validación del correcto funcionamiento del componente Button generado mediante shadcn/ui.
+
+**Ruta:**
+capturas/04-boton-shadcn-funcionando.png
+
+---
+
+### Imagen 05
+
+**Nombre de la imagen:**
+05-listado-dragonball.png
+
+**Descripción:**
+Primera versión del listado de personajes consumidos desde la Dragon Ball API utilizando Axios y TanStack Query.
+
+**Ruta:**
+capturas/05-listado-dragonball.png
+
+---
+
+### Imagen 06
+
+**Nombre de la imagen:**
+06-detalle-personaje.png
+
+**Descripción:**
+Primera implementación de la página de detalle de personajes utilizando React Router para la navegación dinámica.
+
+**Ruta:**
+capturas/06-detalle-personaje.png
+
+---
+
+### Imagen 07
+
+**Nombre de la imagen:**
+07-listado-dragonball-mejorado.png
+
+**Descripción:**
+Versión mejorada de la página principal incorporando buscador, diseño visual moderno, efectos visuales y una mejor experiencia de usuario.
+
+**Ruta:**
+capturas/07-listado-dragonball-mejorado.png
+
+---
+
+### Imagen 08
+
+**Nombre de la imagen:**
+08-detalle-personaje-mejorado.png
+
+**Descripción:**
+Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información, estadísticas y efectos gráficos mejorados.
+
+**Ruta:**
+capturas/08-detalle-personaje-mejorado.png
+
+---
+
+## Instalación y Ejecución
+
+### Clonar repositorio
+
+```bash
+git clone https://github.com/SHEILA-DIAZ/DRAGONBALL.git
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### Ingresar al proyecto
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+cd DRAGONBALL
 ```
+
+### Instalar dependencias
+
+```bash
+npm install
+```
+
+### Ejecutar proyecto
+
+```bash
+npm run dev
+```
+
+### Generar compilación de producción
+
+```bash
+npm run build
+```
+
+---
+
+## Resultado Final
+
+La aplicación permite explorar personajes del universo Dragon Ball mediante una interfaz moderna, intuitiva y responsive, aplicando buenas prácticas de desarrollo frontend con React, TypeScript, Tailwind CSS, shadcn/ui, Axios, React Router y TanStack Query.

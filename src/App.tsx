@@ -1,10 +1,15 @@
-import { Button } from "@/components/ui/button"
+import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { HomePage } from "@/pages/HomePage"
+import { CharacterDetailPage } from "@/pages/CharacterDetailPage"
 
 function App() {
   return (
-    <div className="min-h-screen bg-black flex items-center justify-center">
-      <Button>DRAGONBALL</Button>
-    </div>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<HomePage />} />
+        <Route path="/characters/:id" element={<CharacterDetailPage />} />
+      </Routes>
+    </BrowserRouter>
   )
 }
 

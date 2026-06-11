@@ -45,83 +45,64 @@ Para el desarrollo se utilizaron tecnologías modernas del ecosistema React, imp
 
 ## Evidencias del Desarrollo
 
-## Imagen 01
-
-**Nombre de la imagen:** 01-proyecto-vite-funcionando.png
+### 01-proyecto-vite-funcionando.png
 
 Creación inicial del proyecto utilizando Vite con React y TypeScript.
 
-![Imagen 01](capturas/01-proyecto-vite-funcionando.png)
+![01-proyecto-vite-funcionando](capturas/01-proyecto-vite-funcionando.png)
 
 ---
 
-## Imagen 02
-
-**Nombre de la imagen:** 02-tailwind-funcionando.png
+### 02-tailwind-funcionando.png
 
 Instalación y configuración de Tailwind CSS.
 
-![Imagen 02](capturas/02-tailwind-funcionando.png)
+![02-tailwind-funcionando](capturas/02-tailwind-funcionando.png)
 
 ---
 
-## Imagen 03
-
-**Nombre de la imagen:** 03-shadcn-instalado.png
+### 03-shadcn-instalado.png
 
 Instalación y configuración de shadcn/ui.
 
-![Imagen 03](capturas/03-shadcn-instalado.png)
+![03-shadcn-instalado](capturas/03-shadcn-instalado.png)
 
 ---
 
-## Imagen 04
+### 04-boton-shadcn-funcionando.png
 
-**Nombre de la imagen:** 04-boton-shadcn-funcionando.png
+Validación del componente Button generado con shadcn/ui.
 
-Validación del componente Button.
-
-![Imagen 04](capturas/04-boton-shadcn-funcionando.png)
+![04-boton-shadcn-funcionando](capturas/04-boton-shadcn-funcionando.png)
 
 ---
 
-## Imagen 05
+### 05-listado-dragonball.png
 
-**Nombre de la imagen:** 05-listado-dragonball.png
+Primera versión del listado de personajes consumidos desde la Dragon Ball API.
 
-Primera versión del listado de personajes.
-
-![Imagen 05](capturas/05-listado-dragonball.png)
+![05-listado-dragonball](capturas/05-listado-dragonball.png)
 
 ---
 
-## Imagen 06
+### 06-detalle-personaje.png
 
-**Nombre de la imagen:** 06-detalle-personaje.png
+Primera implementación de la página de detalle de personajes utilizando React Router.
 
-Primera implementación de la página de detalle.
-
-![Imagen 06](capturas/06-detalle-personaje.png)
+![06-detalle-personaje](capturas/06-detalle-personaje.png)
 
 ---
 
-## Imagen 07
+### 07-listado-dragonball-mejorado.png
 
-**Nombre de la imagen:** 07-listado-dragonball-mejorado.png
+Versión mejorada de la página principal incorporando buscador, diseño visual moderno y una mejor experiencia de usuario.
 
-Versión mejorada de la página principal.
-
-![Imagen 07](capturas/07-listado-dragonball-mejorado.png)
+![07-listado-dragonball-mejorado](capturas/07-listado-dragonball-mejorado.png)
 
 ---
 
-## Imagen 08
+### 08-detalle-personaje-mejorado.png
 
-**Nombre de la imagen:** 08-detalle-personaje-mejorado.png
+Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información y estadísticas del personaje.
 
-Versión final de la página de detalle.
-
-![Imagen 08](capturas/08-detalle-personaje-mejorado.png)
-
-Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información, estadísticas y efectos gráficos mejorados.
-
+![08-detalle-personaje-mejorado](capturas/08-detalle-personaje-mejorado.png)

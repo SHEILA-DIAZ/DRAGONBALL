@@ -133,3 +133,10 @@ Se creó una primera interfaz visual para el proyecto DRAGONBALL utilizando Reac
 Se instalaron las librerías necesarias para continuar con el desarrollo de la aplicación DRAGONBALL. Se agregó Axios para el consumo de la API, TanStack Query para la gestión de datos remotos, React Router DOM para la navegación entre páginas y Lucide React para el uso de iconos en la interfaz.
 
 ![Evidencia 04 - LibreriasPrincipales](capturas/InstalacióndeLibrerias.png)
+
+## Evidencia 05 - Configuración de React Router DOM
+
+Se configuró React Router DOM en el proyecto DRAGONBALL para manejar la navegación entre páginas. Se creó una página principal llamada Home y se registró la ruta inicial `/`, manteniendo la vista principal del proyecto con el título centrado en pantalla.
+
+![Evidencia 05](capturas/Evidencia05.png)
+

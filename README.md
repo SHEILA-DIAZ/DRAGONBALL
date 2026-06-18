@@ -106,3 +106,13 @@ Versión mejorada de la página principal incorporando buscador, diseño visual 
 Versión final de la página de detalle con diseño inspirado en Dragon Ball, mejor organización visual de la información y estadísticas del personaje.
 
 ![08-detalle-personaje-mejorado](capturas/08-detalle-personaje-mejorado.png)
+
+## Evidencias Naomi Sanchez
+
+### 01-proyecto-vite-funcionando.png
+
+Creación inicial del proyecto utilizando Vite con React y TypeScript.
+
+![01-proyecto-vite-funcionando](capturas/ViteCorriendonaomi.png)
+
+---

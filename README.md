@@ -109,10 +109,15 @@ Versión final de la página de detalle con diseño inspirado en Dragon Ball, me
 
 ## Evidencias Naomi Sanchez
 
-### 01-proyecto-vite-funcionando.png
+### Evidencia 01 - Proyecto Vite Corriendo
 
 Creación inicial del proyecto utilizando Vite con React y TypeScript.
 
 ![01-proyecto-vite-funcionando](capturas/ViteCorriendonaomi.png)
 
 ---
+## Evidencia 02 - Instalación y configuración de Shadcn UI
+
+Se instaló y configuró correctamente Shadcn UI en el proyecto DragonBall utilizando Vite, React y Tailwind CSS. Además, se agregaron los primeros componentes reutilizables para la interfaz: Button, Card, Badge e Input.
+
+![02-tailwindandShadcn-funcionando](capturas/InstalacióndeShadcn.png)

@@ -145,3 +145,9 @@ Se configuró React Router DOM en el proyecto DRAGONBALL para manejar la navegac
 Se implementó el consumo de la Dragon Ball API utilizando Axios y TanStack Query. La aplicación obtiene dinámicamente la información de los personajes y los muestra mediante componentes reutilizables construidos con shadcn/ui y Tailwind CSS. Se visualizan datos como nombre, imagen, raza, género y nivel de Ki de cada personaje.
 
 ![Evidencia 06](capturas/Evidencia06.png)
+
+## Evidencia 07 - Búsqueda dinámica de personajes
+
+Se implementó una búsqueda dinámica para filtrar personajes del universo Dragon Ball por nombre. Para ello se utilizó el componente Input de shadcn/ui, el estado local con useState y los datos obtenidos desde la Dragon Ball API mediante TanStack Query. La búsqueda se actualiza en tiempo real mientras el usuario escribe.
+
+![Evidencia 07](capturas/Evidencia07.png)

@@ -121,3 +121,9 @@ Creación inicial del proyecto utilizando Vite con React y TypeScript.
 Se instaló y configuró correctamente Shadcn UI en el proyecto DragonBall utilizando Vite, React y Tailwind CSS. Además, se agregaron los primeros componentes reutilizables para la interfaz: Button, Card, Badge e Input.
 
 ![02-tailwindandShadcn-funcionando](capturas/InstalacióndeShadcn.png)
+
+## Evidencia 03 - Primera vista con Tailwind CSS
+
+Se creó una primera interfaz visual para el proyecto DRAGONBALL utilizando React, TypeScript y Tailwind CSS. En esta evidencia se muestra el título principal centrado en pantalla con un fondo oscuro, validando que Tailwind CSS se encuentra funcionando correctamente dentro del proyecto.
+
+![Evidencia 03 - Vista inicial DragonBall](capturas/TextDragonBall.png)

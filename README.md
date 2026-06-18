@@ -127,3 +127,9 @@ Se instaló y configuró correctamente Shadcn UI en el proyecto DragonBall utili
 Se creó una primera interfaz visual para el proyecto DRAGONBALL utilizando React, TypeScript y Tailwind CSS. En esta evidencia se muestra el título principal centrado en pantalla con un fondo oscuro, validando que Tailwind CSS se encuentra funcionando correctamente dentro del proyecto.
 
 ![Evidencia 03 - Vista inicial DragonBall](capturas/TextDragonBall.png)
+
+## Evidencia 04 - Instalación de librerías principales
+
+Se instalaron las librerías necesarias para continuar con el desarrollo de la aplicación DRAGONBALL. Se agregó Axios para el consumo de la API, TanStack Query para la gestión de datos remotos, React Router DOM para la navegación entre páginas y Lucide React para el uso de iconos en la interfaz.
+
+![Evidencia 04 - LibreriasPrincipales](capturas/InstalacióndeLibrerias.png)

@@ -150,7 +150,7 @@ Se implementó el consumo de la Dragon Ball API utilizando Axios y TanStack Quer
 
 Se implementó una búsqueda dinámica para filtrar personajes del universo Dragon Ball por nombre. Para ello se utilizó el componente Input de shadcn/ui, el estado local con useState y los datos obtenidos desde la Dragon Ball API mediante TanStack Query. La búsqueda se actualiza en tiempo real mientras el usuario escribe.
 
-![Evidencia 07](capturas/Evidencia07.png)}
+![Evidencia 07](capturas/Evidencia07.png)
 
 ## Evidencia 08 - Mejora de interfaz 
 

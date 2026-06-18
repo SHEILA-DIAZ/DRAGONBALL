@@ -140,3 +140,8 @@ Se configuró React Router DOM en el proyecto DRAGONBALL para manejar la navegac
 
 ![Evidencia 05](capturas/Evidencia05.png)
 
+## Evidencia 06 - Implementación del listado de personajes
+
+Se implementó el consumo de la Dragon Ball API utilizando Axios y TanStack Query. La aplicación obtiene dinámicamente la información de los personajes y los muestra mediante componentes reutilizables construidos con shadcn/ui y Tailwind CSS. Se visualizan datos como nombre, imagen, raza, género y nivel de Ki de cada personaje.
+
+![Evidencia 06](capturas/Evidencia06.png)

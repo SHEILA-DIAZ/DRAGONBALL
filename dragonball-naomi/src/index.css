@@ -127,4 +127,14 @@
   html {
     @apply font-sans;
     }
+  body {
+    min-width: 320px;
+  }
+  ::selection {
+    background: rgba(249, 115, 22, 0.35);
+    color: white;
+  }
+  img {
+    -webkit-user-drag: none;
+  }
 }

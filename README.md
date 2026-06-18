@@ -150,4 +150,12 @@ Se implementó el consumo de la Dragon Ball API utilizando Axios y TanStack Quer
 
 Se implementó una búsqueda dinámica para filtrar personajes del universo Dragon Ball por nombre. Para ello se utilizó el componente Input de shadcn/ui, el estado local con useState y los datos obtenidos desde la Dragon Ball API mediante TanStack Query. La búsqueda se actualiza en tiempo real mientras el usuario escribe.
 
-![Evidencia 07](capturas/Evidencia07.png)
+![Evidencia 07](capturas/Evidencia07.png)}
+
+## Evidencia 08 - Mejora de interfaz 
+
+Se utilizó Inteligencia Artificial como apoyo para optimizar la interfaz visual de la aplicación DRAGONBALL. La IA permitió proponer mejoras en la experiencia de usuario, diseño responsive, organización de componentes y estilos visuales utilizando React, TypeScript, Tailwind CSS y shadcn/ui. Como resultado, se obtuvo una interfaz moderna, atractiva y profesional, manteniendo todas las funcionalidades implementadas previamente.
+
+![Evidencia 08](capturas/Evidencia08.png)
+![Evidencia 08](capturas/AppMejorada.png)
+![Evidencia 08](capturas/MejoraDetallePersonaje.png)

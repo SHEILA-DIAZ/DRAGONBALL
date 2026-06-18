@@ -8,4 +8,17 @@ export interface Character {
   description: string
   image: string
   affiliation: string
+  originPlanet?: {
+    id: number
+    name: string
+    isDestroyed: boolean
+    description: string
+    image: string
+  }
+  transformations?: {
+    id: number
+    name: string
+    image: string
+    ki: string
+  }[]
 }
